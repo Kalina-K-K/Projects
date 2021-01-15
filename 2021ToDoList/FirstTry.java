@@ -2,8 +2,6 @@ package todo;
 
 import java.awt.BorderLayout;
 import java.awt.Container;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
@@ -35,17 +33,6 @@ public class FirstTry {
 		listPanel.add(wish3);
 		JButton newWish = new JButton("Add to list");
 		newWish.setAlignmentX(listPanel.CENTER_ALIGNMENT);
-		newWish.addActionListener(new ActionListener(){
-
-			@Override
-			public void actionPerformed(ActionEvent arg0) {
-				JTextField newOne = new JTextField();
-				listPanel.add(newOne);
-				frame.pack();
-				frame.repaint();
-			}
-			
-		});
 		
 		JPanel buttonPanel = new JPanel();
 		buttonPanel.setLayout(new BoxLayout(buttonPanel, BoxLayout.LINE_AXIS));
