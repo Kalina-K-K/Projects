@@ -1,0 +1,40 @@
+1
+Massachusetts Institute of Technology
+USA
+55450
+2
+University of Oxford
+UK
+9250
+3
+Stanford University
+USA
+55473
+4
+University of Cambridge
+UK
+9250
+5
+Harvard University
+USA
+40720
+6
+California Institute of Technology
+USA
+43060
+7
+Imperial College London
+UK
+10430
+8
+ETH Zurich - Swiss Federal Institute of Technology
+Switzerland
+158870
+9
+UCL
+UK
+10430
+10
+University of Chicago
+USA
+47290
